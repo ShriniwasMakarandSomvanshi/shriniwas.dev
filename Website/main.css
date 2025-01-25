@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.heading{
+    color: blue;
+    font-family: arial;
+}
+.logo{
+    float: left;
+    width: 100px;
+}
+.para{
+    color: white;
+}
